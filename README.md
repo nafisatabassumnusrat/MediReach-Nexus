@@ -1,6 +1,6 @@
 # MediReach Nexus
 
-![MediReach Nexus Hero](public/hero.png)
+![MediReach Nexus Hero](hero.png)
 
 AI-powered healthcare navigation platform integrating smart city systems and environmental intelligence.
 
@@ -26,7 +26,7 @@ Healthcare in cities is often fragmented and reactive. MediReach Nexus makes it:
 
 ## Features
 
-![Core Features](public/core-feature.png)
+![Core Features](core-feature.png)
 
 ### AI Health Assistant
 - Symptom-based analysis  
