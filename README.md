@@ -10,7 +10,7 @@ AI-powered healthcare navigation platform integrating smart city systems and env
 
 MediReach Nexus is a modern web application that transforms urban healthcare access by combining artificial intelligence, real-time environmental data, and smart city infrastructure.
 
-The platform enables users to analyze symptoms, receive intelligent health insights, and connect with the most suitable healthcare services based on urgency, location, traffic conditions, and environmental factors.
+The platform enables users to analyze symptoms, receive intelligent health insights, and connect with the most suitable healthcare services based on urgency, location, traffic conditions, and environmental factor.
 
 ---
 
